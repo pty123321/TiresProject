@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiresWPF", "TiresWPF\TiresWPF.csproj", "{F3CB10B6-34F2-48F7-92DB-D62B93F6810A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3CB10B6-34F2-48F7-92DB-D62B93F6810A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CB10B6-34F2-48F7-92DB-D62B93F6810A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3CB10B6-34F2-48F7-92DB-D62B93F6810A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3CB10B6-34F2-48F7-92DB-D62B93F6810A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B871C60-5CF8-4022-8078-F2BEADA75745}
+	EndGlobalSection
+EndGlobal
